@@ -1,1 +1,1 @@
-# buged-game
+# C22-Student-boiler-plate
